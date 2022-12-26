@@ -2254,6 +2254,7 @@ h1#christmasTime {
 .santa_caunter {
     background: url('imgs/santa_bg.png');
     min-height: 658px;
+    padding-top: 20px !important;
 }
 
 #countdown ul {

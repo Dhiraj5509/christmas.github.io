@@ -175,9 +175,9 @@ let christmasTime = document.getElementById("christmasTime"),
 countdown = document.getElementById("countdown"),
 fest = document.getElementById("fest");
 
-          christmasTime.innerText = "Happy Christmas!";
+          christmasTime.innerText = "Merry Christmas Piyu Di!";
           countdown.style.display = "none";
-          fest.style.display = "block";
+        //   fest.style.display = "block";
 
           clearInterval(x);
         }
